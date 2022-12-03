@@ -11,6 +11,9 @@
 
 - nakhtm [nakhtm](https://play.google.com/store/apps/details?id=com.mohammed.gallya.Nakhtm_Quran)
 
+## 📫 BusinessEmail :  *mohammed.omar@Cloudev-Solutions.com*
+## 📫 PersonalEmail :  *mohammed.gallya39@gmail.com*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-omar-gallya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-omar-gallya" height="30" width="40" /></a>
