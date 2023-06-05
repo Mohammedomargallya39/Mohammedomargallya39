@@ -11,7 +11,6 @@
 
 - nakhtm [nakhtm](https://play.google.com/store/apps/details?id=com.mohammed.gallya.Nakhtm_Quran)
 
-## 📫 BusinessEmail :  *mohammed.omar@Cloudev-Solutions.com*
 ## 📫 PersonalEmail :  *mohammed.gallya39@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
