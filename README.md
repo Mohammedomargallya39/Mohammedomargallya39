@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter | Dart**
 
-- 👯Encrypted_Books [Gymawy]
+- 👯Gymawy
 
 - 👯Encrypted_Books [Book Spot](https://play.google.com/store/apps/details?id=com.book.spot)
 
